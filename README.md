@@ -13,12 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JuanMartinIwassjuk">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanMartinIwassjuk.JuanMartinIwassjuk">
-  </a>
-</p>
-
 ---
 
 - 👨‍💻 I'm a Full Stack Software Engineer from **UTN**, passionate about building efficient, scalable applications.
