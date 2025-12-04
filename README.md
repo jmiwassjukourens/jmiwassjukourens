@@ -15,11 +15,11 @@
 
 ---
 
-- 👨‍💻 I'm a Software Engineer (Information Systems) graduated from UTN, passionate about building efficient and scalable applications.
-- 🔥 I specialize in **Java + Spring Boot**, **React**, **Angular**, and **SQL**.
-- 🌐 I have hands-on experience with **VPS deployments**, **Linux servers**, **Docker**, and **Docker Compose**.
-- 🧠 Always exploring new technologies and improving my craft across backend, frontend, and infrastructure.
-- 📚 Currently diving deeper into **clean architecture**, **microservices**, and **cloud deployments**.
+- I'm a Software Engineer (Information Systems) graduated from UTN, passionate about building efficient and scalable applications.
+- I specialize in **Java + Spring Boot**, **React**, **Angular**, and **SQL**.
+- I have hands-on experience with **VPS deployments**, **Linux servers**, **Docker**, and **Docker Compose**.
+- Always exploring new technologies and improving my craft across backend, frontend, and infrastructure.
+- Currently diving deeper into **clean architecture**, **microservices**, and **cloud deployments**.
 
 ---
 
