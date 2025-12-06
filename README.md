@@ -71,6 +71,16 @@
 
 ---
 
+## ⭐ My Most Relevant Projects
+
+### 🔹 [AquaVision](https://github.com/jmiwassjukourens/aquavision)  
+A full Angular application for real-time and historical water-consumption analytics, with interactive charts, filters, and professional UI.
+
+### 🔹 [PatientsApp](https://github.com/jmiwassjukourens/patientsapp)  
+A lightweight React CRUD application for managing patients, featuring a clean API layer using `apiFetch`.
+
+---
+
 ### 💳 Profile Summary Card
 
 <div align="center">
@@ -84,16 +94,6 @@
 ### 📈 Activity Graph
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jmiwassjukourens&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## ⭐ My Most Relevant Projects
-
-### 🔹 [AquaVision](https://github.com/jmiwassjukourens/aquavision)  
-A full Angular application for real-time and historical water-consumption analytics, with interactive charts, filters, and professional UI.
-
-### 🔹 [PatientsApp](https://github.com/jmiwassjukourens/patientsapp)  
-A lightweight React CRUD application for managing patients, featuring a clean API layer using `apiFetch`.
 
 ---
 
