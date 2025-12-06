@@ -87,6 +87,16 @@
 
 ---
 
+## ⭐ My Most Relevant Projects
+
+### 🔹 [AquaVision](https://github.com/jmiwassjukourens/aquavision)  
+A full Angular application for real-time and historical water-consumption analytics, with interactive charts, filters, and professional UI.
+
+### 🔹 [PatientsApp](https://github.com/jmiwassjukourens/patientsapp)  
+A lightweight React CRUD application for managing patients, featuring a clean API layer using `apiFetch`.
+
+---
+
 ## 🔗 &nbsp;Contact Me
 
 <div align="center">
